@@ -4,4 +4,4 @@
 ### Membuat Box Element
 kode tag untuk Box element adalah <div>
 ini adalah tampilannya
-![img]screenshot/ss1.png
+![img]screenshot/ss1.PNG
